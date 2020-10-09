@@ -1,0 +1,272 @@
+body {
+	background-color: #22486d;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+    background-image: url(bg.png);
+	background-repeat: repeat-x;
+}
+
+body,td,th {
+	font-size: 11px;
+	color: #5a5a5a;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.main {
+    width:600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+}
+
+.admintext {
+    font-size: 14px;
+    color: white;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.thanks {
+    font-size: 16px;
+    color: white;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.rip {
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.screenshot {
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.quote {
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-bottom: 60px;
+}
+
+.divider {
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+a:link {
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+a:visited {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+a:hover {
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+a:active {
+    text-decoration: none;
+}
+
+a img { 
+    border: none; 
+}
+
+
+
+
+
+
+.style8 {
+	color: #bbd1dd;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+}
+.style10 {font-size: 13px}
+
+.style11 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.toplink {
+}
+.style12 {
+      color: #000000;
+      font-size: 11px;
+      cursor: pointer;  
+}
+
+.style12:link {
+	text-decoration: none;
+	color: #000000;
+}
+.style12:visited {
+	text-decoration: none;
+	color: #000000;
+}
+.style12:hover {
+	text-decoration: underline;
+	color: #000000;
+}
+.style12:active {
+	text-decoration: none;
+}
+
+.blue_link {
+	color: #b1d9fa;
+}
+
+.blue_link:link {
+	text-decoration: none;
+	color: #b1d9fa;
+}
+.blue_link:visited {
+	text-decoration: none;
+	color: #b1d9fa;
+}
+.blue_link:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+.blue_link:active {
+	text-decoration: none;
+}
+
+.lol_link {
+	color: #FFFFFF;
+}
+
+.lol_link:link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.lol_link:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.lol_link:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+.lol_link:active {
+	text-decoration: none;
+}
+
+
+.brodtext {color: #000000}
+.brodtext_bold {color: #022033; font-weight: bold;}
+.brodtext_blue {color: #b1d9fa}
+.style16 {color: #022033; font-size: 10px; }
+.TriangleLink {        
+    cursor: pointer;  
+}
+.TriangleLink:hover {
+    text-decoration:underline;    
+}
+
+
+.FAQ_Rubrik {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 11px; 
+    color: #000;        
+    font-weight: bold;    
+    text-align:left;
+    width:100%;
+}
+
+.FAQ_Answer {
+    color: #5a5a5a;    
+    padding-left:8px;
+    padding-top:8px;
+    padding-bottom:8px;
+}
+
+.input_bg {
+	color: #5a5a5a;
+	background-repeat: repeat;
+	background-image: url(../pic/input_bg.png);
+	border: 1px solid #999999;
+}
+
+
+.input_bg2 {
+        color: #5a5a5a;	
+	background-repeat: repeat;
+	background-image: url(../pic/input_bg.png);
+}
+
+.currency{
+    width:166px;
+    height:27px;
+    background-repeat: no-repeat;
+    text-align:right;
+    color: black;
+    font-size:12px;
+    font-weight:bold;
+    padding-top: 6px;
+}
+
+.king {
+    font-size:11px;
+    font-weight:bold;
+    font-family: 'Helvetica';
+    color: black;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:3px;
+    padding-bottom:3px;
+    border-bottom:1px solid #CCCCCC;
+}
+.headking {
+    font-size:11px;
+    font-weight:bold;
+    color: white;
+    background-color: #1d3665;
+    padding-left:5px;
+    padding-right:5px;
+    padding-bottom:2px;
+}
+.AffiliateHeading {
+    font-size: 20px;
+    font-family: verdana;
+    font-weight: bold;
+    color: black;
+}
+.SmallerHeading {
+    color:black;
+    font-weight:bold;
+    font-family: verdana;
+    font-size:14px;
+    text-align: center;
+}
+
+.bg_pic {
+    background-image: url(../text_bg_pic.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}            
+
+object { 
+    display:block; 
+    outline:none;
+}
